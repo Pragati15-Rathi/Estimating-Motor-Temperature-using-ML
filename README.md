@@ -1,0 +1,1 @@
+# Estimating Electric Motor Temperatures With Deep Residual Machine Learning
